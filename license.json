@@ -3,6 +3,6 @@
   "expire": "2026-01-7 12:00 AM",
   "used": 25,
   "max": 30,
-  "blocked": false,
-  "message": "FEEDBACK KAYA"
+  "blocked": true,
+  "message": "MAINTENANCE!"
 }
