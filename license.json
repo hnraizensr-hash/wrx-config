@@ -1,4 +1,6 @@
 {
+  "password": "WRX123",
+  "expire": "2026-12-31 11:59 PM",
   "used": 0,
   "max": 20,
   "devices": {}
