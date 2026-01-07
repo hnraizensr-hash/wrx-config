@@ -1,8 +1,8 @@
 {
-  "password": "12345",
-  "expire": "2026-01-7 11:23 PM",
-  "used": 25,
-  "max": 30,
+  "password": "POGIMOWRX",
+  "expire": "2026-01-8 12:00 AM",
+  "used": 0,
+  "max": 100,
   "blocked": false,
   "message": "MAINTENANCE!"
 }
